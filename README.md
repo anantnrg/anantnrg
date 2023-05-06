@@ -8,4 +8,4 @@
 </div>
 
 ## About me
-I'm a 13 yo AI engineer and robotics developer from India. I like doing projects with : TensorFlow, Python, Raspberry Pies, Arduinos, and FPGAs.
+A 14yo Robotics Engineer/Developer from India. I love to program FPGAs, Microcontrollers and Raspberry PIs. Also loves writing in Rust and a Linux and Open Source enthusiast.
