@@ -1,11 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
-   <a href="https://www.youtube.com/channel/UCp6yuy4bEkDzT4OpuK8sy1Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+<h1 align=center>Hey, I'm Anant</h1>
+<h4 align=center>I'm a 14yo  :robot: Robotics Developer and a  :crab: Rust programmer from India :india:</h4>
 
-## About me
-A 14yo Robotics Engineer/Developer from India. I love to program FPGAs, Microcontrollers and Raspberry PIs. Also loves writing in Rust and a Linux and Open Source enthusiast.
+
+
+## About me 
+I'm a 14 year old robotics developer and a avid programmer. I love coding in low level system languages like Rust, C/C++ and Python because they're challenging and fun to use! I also love making robots such as quadrupeds and robotic arms.
+
+I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
