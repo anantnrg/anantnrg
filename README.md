@@ -1,5 +1,5 @@
 <h1 align=center>Hey, I'm Anant</h1>
-<h4 align=center>I'm a 14yo  :robot: Robotics Developer and a  :crab: Rust programmer from India :india:</h4>
+<h3 align=center>I'm a 14yo  :robot: Robotics Developer and a  :crab: Rust programmer from India :india:</h3>
 
 
 
