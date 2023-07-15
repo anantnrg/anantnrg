@@ -14,3 +14,6 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
 * [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust
 
 * [Kagi](https://github.com/stratawm/kagi) - Kagi is a hotkey daemon for Strata
+
+
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantnrg&theme=tokyonight&show_icons=true&hide=contribs)
