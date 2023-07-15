@@ -8,12 +8,20 @@ I'm a 14 year old robotics developer and a avid programmer. I love coding in low
 
 I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
 
-## My projects
+## My public repos
 * [Arduino Basics](https://github.com/anantnrg/Arduino-Basics) - This repository contains all the code needed to get started with Arduino programming.
 
 * [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust
 
 * [Kagi](https://github.com/stratawm/kagi) - Kagi is a hotkey daemon for Strata
 
+## My private repos
+Well, if I told you about them, it kinda defeats the whole private repos thing :)
 
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantnrg&theme=tokyonight&show_icons=true&hide=contribs)
+## Stats
+<a href="https://github.com/anantnrg/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anantnrg&theme=tokyonight&hide=contrib" />
+</a>
+<a href="https://github.com/anantnrg">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantnrg&layout=compact&langs_count=4&card_width=320&theme=tokyonight" />
+</a>
