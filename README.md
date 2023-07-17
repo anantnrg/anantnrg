@@ -20,7 +20,7 @@ Well, if I told you about them, it kinda defeats the whole private repos thing :
 
 ## Stats
 <a href="https://github.com/anantnrg/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anantnrg&theme=tokyonight&hide=contrib" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anantnrg&theme=tokyonight&hide=contrib&show_icons=true&card_width=280" />
 </a>
 <a href="https://github.com/anantnrg">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantnrg&layout=compact&langs_count=4&card_width=320&theme=tokyonight" />
