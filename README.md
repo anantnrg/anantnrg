@@ -9,11 +9,11 @@ I'm a 14 year old robotics developer and a avid programmer. I love coding in low
 I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
 
 ## My public repos
-* [Arduino Basics](https://github.com/anantnrg/Arduino-Basics) - This repository contains all the code needed to get started with Arduino programming.
+- [Arduino Basics](https://github.com/anantnrg/Arduino-Basics) - This repository contains all the code needed to get started with Arduino programming.
 
-* [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust
+- [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust.
 
-* [Kagi](https://github.com/stratawm/kagi) - Kagi is a hotkey daemon for Strata
+- [Kagi](https://github.com/stratawm/kagi) - Kagi is a hotkey daemon for Strata written in pure Rust. It uses the [`libinput`](https://docs.rs/input/latest/input/) library to detect keypresses.
 
 ## My private repos
 Well, if I told you about them, it kinda defeats the whole private repos thing :)
