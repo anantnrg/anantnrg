@@ -2,7 +2,6 @@
 <h3 align=center>I'm a 14yo  :robot: Robotics Developer and a  :crab: Rust programmer</h3>
 
 
-
 ## About me 
 I'm a 14 year old robotics developer and a avid programmer. I love coding in low level system languages like Rust, C/C++ and Python because they're challenging and fun to use! I also love making robots such as quadrupeds and robotic arms.
 
