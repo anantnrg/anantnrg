@@ -12,8 +12,6 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
 
 - [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust.
 
-- [Kagi](https://github.com/stratawm/kagi) - Kagi is a hotkey daemon for Strata written in pure Rust. It uses the [`libinput`](https://docs.rs/input/latest/input/) library to detect keypresses.
-
 ## My Private Repos
 Well, if I told you about them, it kinda defeats the whole private repos thing :)
 
