@@ -13,7 +13,7 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
 - [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust.
 
 ## My Private Repos
-Well, if I told you about them, it kinda defeats the whole private repos thing :)
+Well, if I told you about them, it kinda defeats the whole private repos thing, ya know :)
 
 ## My Skills
 <p align="center">
