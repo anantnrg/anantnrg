@@ -7,13 +7,14 @@ I'm a 14 year old robotics developer and a avid programmer. I love coding in low
 
 I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
 
-## My Public Repos
-- [Arduino Basics](https://github.com/anantnrg/Arduino-Basics) - This repository contains all the code needed to get started with Arduino programming.
-
-- [Strata](https://github.com/stratawm/stratawm) - Strata is a modular, dynamic and sleek Wayland compositor for GNU/Linux written completely in Rust.
-
-## My Private Repos
-Well, if I told you about them, it kinda defeats the whole private repos thing, ya know :)
+<p align="center">
+  <a href="https://github.com/anantnrg/">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anantnrg&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true">
+  </a>
+  <a href="https://github.com/anantnrg/">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantnrg&theme=tokyonight" alt="My Github Stats">
+  </a>
+</p>
 
 ## My Skills
 <p align="center">
@@ -45,15 +46,4 @@ Well, if I told you about them, it kinda defeats the whole private repos thing, 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
-</p>
-
-
-## Stats
-<p align="center">
-  <a href="https://github.com/anantnrg/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anantnrg&theme=tokyonight&hide=contrib&show_icons=true&card_width=280" />
-  </a>
-  <a href="https://github.com/anantnrg">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantnrg&layout=compact&langs_count=6&card_width=315&theme=tokyonight" />
-  </a>
 </p>
