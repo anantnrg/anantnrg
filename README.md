@@ -12,7 +12,7 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anantnrg&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true">
   </a>
   <a href="https://github.com/anantnrg/">
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=anantnrg&theme=tokyonight](https://streak-stats.demolab.com?user=anantnrg&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)">
+    <img src="https://streak-stats.demolab.com?user=anantnrg&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
   </a>
 </p>
 
