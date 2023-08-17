@@ -16,18 +16,12 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
   </a>
 </p>
 
-## My Skills
+<h2 align=center>My Skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,arduino,c,cpp,linux,lua,md,py,bash,tensorflow,html,css,ts,js,svelte,tailwind,react,tauri,blender,figma&perline=10" />
 </p>
 
-## What I Use
+<h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,neovim,astro,git,github,vscode" />
 </p>
