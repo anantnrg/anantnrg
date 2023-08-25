@@ -18,10 +18,11 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
 
 <h2 align=center>My Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,arduino,c,cpp,linux,lua,md,py,bash,tensorflow,html,css,ts,js,svelte,tailwind,react,tauri,blender,figma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=rust,arduino,c,cpp,linux,lua,md,py,bash,tensorflow,html,css,svelte,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tauri,blender,figma&perline=14" />
 </p>
 
 <h2 align=center>What I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim,astro,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode" />
 </p>
