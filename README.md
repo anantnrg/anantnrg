@@ -9,7 +9,7 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
 
 <p align="center">
   <a href="https://github.com/anantnrg/">
-    <img src="https://api.githubtrends.io/user/svg/anantnrg/langs?time_range=one_year&theme=dark">
+    <img src="https://api.githubtrends.io/user/svg/anantnrg/langs?time_range=one_year&theme=dark&loc_metric=changed&include_private=True">
   </a>
   <a href="https://github.com/anantnrg/">
     <img src="https://api.githubtrends.io/user/svg/anantnrg/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
