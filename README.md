@@ -9,10 +9,10 @@ I learned coding when I was 6. My first language was Python. Then I moved on to 
 
 <p align="center">
   <a href="https://github.com/anantnrg/">
-    <img src="https://an-gh-stats.vercel.app/api?username=anantnrg&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&border_radius=10">
+    <img src="https://api.githubtrends.io/user/svg/anantnrg/langs?time_range=one_year&theme=dark">
   </a>
   <a href="https://github.com/anantnrg/">
-    <img src="https://streak-stats.demolab.com?user=anantnrg&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://api.githubtrends.io/user/svg/anantnrg/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
   </a>
 </p>
 
