@@ -3,9 +3,7 @@
 
 
 <h2 align=center>About me</h2>
-Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a Linux nerd. I love programming FPGAs and writing code in low level systems languages like Rust, C/C++ and Go.  I also love making robots such as quadrupeds and robotic arms.
-
-I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
+Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a Linux nerd. I love programming FPGAs and writing code in low level systems languages like Rust, C/C++ and Go.  I also love making robots such as quadrupeds and robotic arms. I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
 
 Currently I'm working on [Strata](https://github.com/stratawm/strata), a cutting-edge, robust and sleek Wayland compositor written completely in Rust and configured in Lua.
 
