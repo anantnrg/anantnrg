@@ -7,7 +7,6 @@ Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a
 
 <br/>
 
-
 <p align="center">
   <a href="https://github.com/anantnrg/">
     <img src="https://api.githubtrends.io/user/svg/anantnrg/langs?time_range=one_year&theme=dark&loc_metric=changed&include_private=True">
