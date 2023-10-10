@@ -14,7 +14,6 @@ Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a
     <img src="https://api.githubtrends.io/user/svg/anantnrg/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
   </a>
 </p>
-
 <h2 align=center>My Skills</h2>
 
 <p align="center">
