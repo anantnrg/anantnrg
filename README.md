@@ -16,7 +16,6 @@ Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a
 </p>
 
 <h2 align=center>My Skills</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,arduino,c,cpp,linux,lua,md,py,bash,tensorflow,html,css,svelte,tailwind" />
   <img src="https://skillicons.dev/icons?i=ts,js,react,tauri,blender,figma" />
