@@ -20,7 +20,6 @@ Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a
 </p>
 
 <h2 align=center>What I Use</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode" />
 </p>
