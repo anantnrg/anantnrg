@@ -1,4 +1,4 @@
-15. i build robots and mess around with rust, c/c++, and linux. started coding at 6. now i’m into fpgas and low-level systems. i also build stuff like robotic arms or quadrupeds.
+15yo. i build robots and mess around with rust, c/c++, and linux. started coding at 6. now i’m into fpgas and low-level systems. i also build stuff like robotic arms or quadrupeds.
 
 hobbies include mtb (dh/enduro), MMA, bikes, cars, rockets, drones, rc planes and rc cars. 
 
@@ -13,13 +13,13 @@ pronouns: zx10r/m5
   </a>
 </p>
 
-<h2 align=center>My Skills</h2>
+<h2 align=center>skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,arduino,c,cpp,linux,lua,md,py,bash,tensorflow,html,css,svelte,tailwind" />
   <img src="https://skillicons.dev/icons?i=ts,js,react,tauri,blender,figma" />
 </p>
 
-<h2 align=center>What I Use</h2>
+<h2 align=center>what i use</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode" />
 </p>
