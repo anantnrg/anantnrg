@@ -2,7 +2,7 @@
 
 hobbies include mtb (dh/enduro), MMA, bikes, cars, rockets, drones, rc planes and rc cars. 
 
-pronouns: zx10r/m5
+pronouns: zx10r/m440i
 
 <p align="center">
   <a href="https://github.com/anantnrg/">
