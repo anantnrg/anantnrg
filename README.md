@@ -1,9 +1,8 @@
-<h1 align=center>Hey, I'm Anant</h1>
+15. i build robots and mess around with rust, c/c++, and linux. started coding at 6. now i’m into fpgas and low-level systems. i also build stuff like robotic arms or quadrupeds.
 
-<h3 align=center>14yo  Rustacean :crab:</h3>
+hobbies include mtb (dh/enduro), MMA, bikes, cars, rockets, drones, rc planes and rc cars. 
 
-<h2 align=center>About me</h2>
-Hey I’m Anant Narayan, a 14 year old Robotics Developer, Rust programmer and a Linux nerd. I love programming FPGAs and writing code in low level systems languages like Rust, C/C++ and Go. I also love making robots such as quadrupeds and robotic arms. I learned coding when I was 6. My first language was Python. Then I moved on to C/C++ and now I'm learning Rust. Other than programming, I love skating, mountain biking and Muay Thai.
+pronouns: zx10r/m5
 
 <p align="center">
   <a href="https://github.com/anantnrg/">
