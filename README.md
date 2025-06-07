@@ -1,6 +1,6 @@
 15yo. future avionics engineer. i build robots and mess around with rust, c/c++, and linux. started coding at 6. now i’m into fpgas and low-level systems. i also build stuff like robotic arms or quadrupeds.
 
-**hobbies:** mtb (dh/enduro), MMA, bikes, cars, rockets, drones, rc planes and anything that flies or goes fast... 
+**hobbies:** mtb (dh/enduro), MMA, bikes, cars, rockets, drones, rc planes and anything that flies or goes fast...  
 
 pronouns: zx10r/m440i
 
