@@ -2,7 +2,7 @@
 
 **hobbies:** mtb (dh/enduro), MMA, bikes, cars, rockets, drones, rc planes and anything that flies or goes fast...  
  
-pronouns: zx10r/m440i
+pronouns: zx6r/m240i
 
 <p align="center">
   <a href="https://github.com/anantnrg/">
